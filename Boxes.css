@@ -1,0 +1,60 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.first{
+    flex-basis: initial;
+    height:100px;
+    width: 100px;
+    background-color: aliceblue;
+    margin: 10px;
+}
+.second{
+    flex-basis: initial;
+    height:100px;
+    width: 100px;
+    background-color: rgb(147, 162, 48);
+    margin: 10px;
+}
+.third{
+    flex-basis: initial;
+    height:100px;
+    width: 100px;
+    background-color: rgb(53, 83, 109);
+    margin: 10px;
+}
+.fourth{
+    flex-basis: initial;
+    height:100px;
+    width: 100px;
+    background-color: rgb(97, 51, 165);
+    margin: 10px;
+}
+.fifth{
+    flex-basis: initial;
+    height:100px;
+    width: 100px;
+    background-color: rgb(142, 21, 153);
+    margin: 10px;
+}
+.six{
+    flex-basis: initial;
+    height:100px;
+    width: 100px;
+    background-color: rgb(196, 34, 142);
+    margin: 10px;
+}
+.seven{
+    flex-basis: initial;
+    height:100px;
+    width: 100px;
+    background-color: rgb(224, 129, 20);
+    margin: 10px;
+}
+.eight{
+    flex-basis: initial;
+    height:100px;
+    width: 100px;
+    background-color: rgb(40, 214, 130);
+    margin: 10px;
+}
